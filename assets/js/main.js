@@ -23,7 +23,11 @@ $("input[type='text']").keypress(function(event){
         $(this).val("");
         
         // create new li and add to ul
-        $("ul").append("<li><span>x</span>" + todoText + "</li>");
+        $("ul").append("<li><span><i class='fas fa-trash-alt'></i></span>" + todoText + "</li>");
     }
 
+});
+
+$(".fa-plus").click(function(){
+    $("input[type='text']").fadeToggle();
 });
