@@ -1,7 +1,7 @@
 # Todo List
-A simple web-based todo list app that demonstrates the use of HTML, CSS, JavaScript, and jQuery. You can see a deom of the app [here](https://ccentola.github.io/todo-app/).
+A simple web-based todo list app that demonstrates the use of HTML, CSS, JavaScript, and jQuery. You can see a demo of the app [here](https://ccentola.github.io/todo-app/).
 
-Users can add and remove to-do items in a stylish form that makes use of Google Fonts, Font Awesome icons, and CSS transitions.
+Users can add and remove to-do items using a stylish form that makes use of Google Fonts, Font Awesome icons, and CSS transitions.
 
 ___
 ## Resources
